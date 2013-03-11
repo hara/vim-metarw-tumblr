@@ -1,2 +1,2 @@
-command -nargs=0 TumblrSetup call metarw#tumblr#authenticate()
+command! -nargs=0 TumblrSetup call metarw#tumblr#authenticate()
 
